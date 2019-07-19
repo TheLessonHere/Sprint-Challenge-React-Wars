@@ -26,13 +26,25 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+Allows you to write your HTML and CSS into your JavaScript environment and create reusable, scalable components for
+your web apps. Compresses your data and code into smaller components.
+
 - [ ] What does it mean to _think_ in react?
+
+Approaching and planning your pages and web apps so that they are broken down into creatable reusable components.
 
 - [ ] Describe state.
 
+State is a way to hold the current data being passed into the page/app.
+
 - [ ] Describe props.
 
+Props are argument data passed into components needed to build or render the component on the page.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+Side effects are events or functions that trigger based off of other events like changes in states. You can
+sync effects using the useEffect function and passing in states/props changes as dependencies.
 
 ## Project Set Up
 
