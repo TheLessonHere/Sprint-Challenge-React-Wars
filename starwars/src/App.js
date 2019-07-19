@@ -15,15 +15,6 @@ const StyledAppContainer = styled.div`
   margin-bottom: 50px;
 `;
 
-const StyledHeader = styled.h1`
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: center;
-  align-items: center;
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
-`;
-
 const App = () => {
   // Try to think through what state you'll need for this app before starting. Then build out
   // the state properties here.
