@@ -9,7 +9,7 @@ const StyledCard = styled.div`
   height: 350px;
   padding: 1%;
   margin: 0.5%;
-  background-color: tan;
+  background-color: red;
   opacity: 0.75;
   border-radius: 15px;
   box-shadow: 5px 5px 10px dodgerblue;
