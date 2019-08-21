@@ -30,7 +30,7 @@ const StyledH2 = styled.h2`
     opacity: 1;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    color: #242526;
+    color: black;
     font-size: 1.8rem;
     margin-top: 15px;
     margin-bottom: 15px;
